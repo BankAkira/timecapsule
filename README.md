@@ -7,7 +7,6 @@ A Python-based application that creates encrypted time capsules that remain lock
 
 The Digital Time Capsule allows you to preserve digital content (text notes, images, documents, and any other files) in an encrypted format that cannot be accessed until a predetermined date. Each time capsule is secured with password-based encryption, ensuring that your memories and messages remain private until the intended time of opening.
 
-![Time Capsule Concept](https://www.mermaidchart.com/raw/d6b74f83-55d3-4a8c-9346-114bedc8a9e2?theme=light&version=v0.1&format=svg)
 
 ## Features
 
