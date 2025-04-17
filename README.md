@@ -27,7 +27,7 @@ The Digital Time Capsule allows you to preserve digital content (text notes, ima
 1. Clone this repository or download the script:
    ```bash
    git clone https://github.com/BankAkira/timecapsule
-   cd digital-time-capsule
+   cd timecapsule
    ```
 
 2. Install the required dependencies:
